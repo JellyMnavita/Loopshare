@@ -575,6 +575,7 @@ nav {
     height: 2px;
     background: var(--primary-color);
     transition: all 0.3s ease;
+    transform: translateX(-12px);
 }
 
 .hamburger::before {
